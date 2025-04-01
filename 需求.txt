@@ -1,0 +1,19 @@
+必需的第三方库：
+1.torch（包含 torch.nn, torch.optim）
+
+2.torchvision（包含 torchvision.transforms, torchvision.models）
+
+3.numpy
+
+4.matplotlib
+
+5.PIL (Pillow)（包含 PIL.Image, PIL.ImageDraw, PIL.ImageFont）
+
+Python 内置库：
+1.json
+
+2.urllib.request
+
+3.os
+
+4.warnings
